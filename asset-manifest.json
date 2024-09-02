@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/deepak-rawat/static/css/main.de0c6365.css",
-    "main.js": "/deepak-rawat/static/js/main.cc56d68f.js",
+    "main.css": "/deepak-rawat/static/css/main.6576f7a3.css",
+    "main.js": "/deepak-rawat/static/js/main.5d41db4e.js",
     "static/js/453.4ed69023.chunk.js": "/deepak-rawat/static/js/453.4ed69023.chunk.js",
-    "static/media/CssHouse-projects37.png": "/deepak-rawat/static/media/CssHouse-projects37.7e53ac4f10789702bf35.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/deepak-rawat/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
     "static/media/hero-img.png": "/deepak-rawat/static/media/hero-img.e470ea502c6f66bbf88d.png",
-    "static/media/CssHouse-projects34.png": "/deepak-rawat/static/media/CssHouse-projects34.2f9dd3350e80e7a8030a.png",
     "static/media/emailTemplateproj4.png": "/deepak-rawat/static/media/emailTemplateproj4.3ebb2fa8cdf87bf9e30d.png",
     "static/media/emailTemplateproj2.png": "/deepak-rawat/static/media/emailTemplateproj2.cdc319347c83b04e7b23.png",
     "static/media/emailTemplateproj3.png": "/deepak-rawat/static/media/emailTemplateproj3.35bc8ba566461e2b4dbf.png",
     "static/media/FunnelProject3.png": "/deepak-rawat/static/media/FunnelProject3.e71a48f073a9ae738a55.png",
     "static/media/FunnelProject8.png": "/deepak-rawat/static/media/FunnelProject8.0937cab7360ca3b7fb4b.png",
-    "static/media/CssHouse-projects36.png": "/deepak-rawat/static/media/CssHouse-projects36.77c5c86d960cf2125b1c.png",
     "static/media/reactProject3.png": "/deepak-rawat/static/media/reactProject3.9223316784926478dc00.png",
     "static/media/wordpress-project3.png": "/deepak-rawat/static/media/wordpress-project3.613687523f0801e66813.png",
     "static/media/wordpress-project2.png": "/deepak-rawat/static/media/wordpress-project2.db5c55e036febdd2ee1b.png",
@@ -24,14 +21,14 @@
     "static/media/reactProject1.png": "/deepak-rawat/static/media/reactProject1.b47b412a680dabb620ea.png",
     "static/media/FunnelProject7.png": "/deepak-rawat/static/media/FunnelProject7.bf0f5b301cda0de23504.png",
     "static/media/wordpress-project1.png": "/deepak-rawat/static/media/wordpress-project1.ff423e71bc483475b2f8.png",
+    "static/media/webflowProject4.png": "/deepak-rawat/static/media/webflowProject4.f84670dc9df6c597c399.png",
     "static/media/reactProject2.png": "/deepak-rawat/static/media/reactProject2.b4331155b1280e1b5ce1.png",
     "static/media/FunnelProject5.png": "/deepak-rawat/static/media/FunnelProject5.67d5316520e6009c6fcd.png",
     "static/media/FunnelProject4.png": "/deepak-rawat/static/media/FunnelProject4.7e0a86a510e16de55118.png",
     "static/media/HtmlProject2.png": "/deepak-rawat/static/media/HtmlProject2.131f96d5fe11c5a8f69c.png",
     "static/media/emailTemplateproj1.png": "/deepak-rawat/static/media/emailTemplateproj1.005519460b1c36fa1e97.png",
     "static/media/FunnelProject1.png": "/deepak-rawat/static/media/FunnelProject1.d426a15d66b62d47ff13.png",
-    "static/media/CssHouse-projects35.png": "/deepak-rawat/static/media/CssHouse-projects35.783ba37a208962f599b6.png",
-    "static/media/CssHouse-projects38.png": "/deepak-rawat/static/media/CssHouse-projects38.75072c2375b072dd8190.png",
+    "static/media/webflowProject6.png": "/deepak-rawat/static/media/webflowProject6.e295f6a1f96be1e165a8.png",
     "static/media/FunnelProject9.png": "/deepak-rawat/static/media/FunnelProject9.f353bd7e2fe2785dd5a2.png",
     "static/media/FunnelProject6.png": "/deepak-rawat/static/media/FunnelProject6.f28a7b6476e8fcdfac38.png",
     "static/media/HtmlProject5.png": "/deepak-rawat/static/media/HtmlProject5.b78e0bce7d74ab1e4cf4.png",
@@ -45,7 +42,6 @@
     "static/media/whatsapp.png": "/deepak-rawat/static/media/whatsapp.c339ff504121f060e736.png",
     "static/media/HtmlProject3.jpg": "/deepak-rawat/static/media/HtmlProject3.717def367c7b5e52df3b.jpg",
     "static/media/webflowProject5.png": "/deepak-rawat/static/media/webflowProject5.3c4fd0bd28c8311077ce.png",
-    "static/media/webflowProject4.png": "/deepak-rawat/static/media/webflowProject4.c4e6f128da053e9e1156.png",
     "static/media/testimonial-img.png": "/deepak-rawat/static/media/testimonial-img.8e428fea69271dc7d8f7.png",
     "static/media/slick.svg": "/deepak-rawat/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/deepak-rawat/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -53,12 +49,12 @@
     "static/media/slick.woff": "/deepak-rawat/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/deepak-rawat/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/deepak-rawat/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
-    "main.de0c6365.css.map": "/deepak-rawat/static/css/main.de0c6365.css.map",
-    "main.cc56d68f.js.map": "/deepak-rawat/static/js/main.cc56d68f.js.map",
+    "main.6576f7a3.css.map": "/deepak-rawat/static/css/main.6576f7a3.css.map",
+    "main.5d41db4e.js.map": "/deepak-rawat/static/js/main.5d41db4e.js.map",
     "453.4ed69023.chunk.js.map": "/deepak-rawat/static/js/453.4ed69023.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0c6365.css",
-    "static/js/main.cc56d68f.js"
+    "static/css/main.6576f7a3.css",
+    "static/js/main.5d41db4e.js"
   ]
 }
