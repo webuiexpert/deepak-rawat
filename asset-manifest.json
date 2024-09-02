@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deepak-rawat/static/css/main.415b4171.css",
+    "main.css": "/deepak-rawat/static/css/main.7183ac2d.css",
     "main.js": "/deepak-rawat/static/js/main.fbeb14cf.js",
     "static/js/453.4ed69023.chunk.js": "/deepak-rawat/static/js/453.4ed69023.chunk.js",
     "static/media/CssHouse-projects37.png": "/deepak-rawat/static/media/CssHouse-projects37.7e53ac4f10789702bf35.png",
@@ -53,12 +53,12 @@
     "static/media/slick.woff": "/deepak-rawat/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/deepak-rawat/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/deepak-rawat/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
-    "main.415b4171.css.map": "/deepak-rawat/static/css/main.415b4171.css.map",
+    "main.7183ac2d.css.map": "/deepak-rawat/static/css/main.7183ac2d.css.map",
     "main.fbeb14cf.js.map": "/deepak-rawat/static/js/main.fbeb14cf.js.map",
     "453.4ed69023.chunk.js.map": "/deepak-rawat/static/js/453.4ed69023.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.415b4171.css",
+    "static/css/main.7183ac2d.css",
     "static/js/main.fbeb14cf.js"
   ]
 }
