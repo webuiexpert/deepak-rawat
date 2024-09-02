@@ -39,7 +39,7 @@ function ContactSection() {
             Don't Wait Any Longer For Higher Rankings. Get Started today!
           </h2>
           <p className="lg:text-[18px] lg:leading-[1.8em] text-[16px] leading-[1.2em] text-white text-center mt-3">
-            You have any questions? I would love to hear from you. Send me a message and I will respond as soon as possible or just email me directly at dsrdesigns929@gmail.com
+            You have any questions? I would love to hear from you. Send me a message and I will respond as soon as possible or just email me directly at <a href="mailto:dsrdesigns929@gmail.com">dsrdesigns929@gmail.com</a>
           </p>
           <form ref={form} onSubmit={sendEmail} className="flex flex-col gap-10 mt-10 items-center justify-between w-full bg-transparent" action="">
             <div className="inputBox1 flex lg:flex-row flex-col justify-between gap-10 w-full">
@@ -51,7 +51,7 @@ function ContactSection() {
               <textarea className="bg-transparent p-3 lg:w-[50%] text-white border-b-[1px] h-[150px] outline-none" placeholder="Your Message" name="message"></textarea>
             </div>
             <div className="subBtn relative mt-10 ">
-              <input type="submit" value="Send Message" className="rounded-full mssgBtn text-white bg-[#13a300] hover:bg-transparent hover:border cursor-pointer py-3 px-8 text-[20px]" />
+              <input type="submit" value="Send Message" className="rounded-full mssgBtn text-white bg-[#13a300] hover:bg-transparent border border-[#391D5D] hover:border hover:border-white cursor-pointer py-3 px-8 text-[20px]" />
             </div>
             {message && (
               <p className="w-full text-center p-2 text-2xl font-semibold text-[#ffff]">
