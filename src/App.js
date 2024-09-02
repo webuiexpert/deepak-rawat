@@ -7,12 +7,12 @@ import Skills from './Components/Skills'
 import TestimonialsSection from './Components/TestimonialsSection'
 import ContactSection from './Components/ContactSection'
 import Footer from './Components/Footer'
-import AnimateMovingCursor from './Components/AnimateMovingCursor'
+// import AnimateMovingCursor from './Components/AnimateMovingCursor'
 
 function App() {
   return (
     <div >
-      <AnimateMovingCursor />
+      {/* <AnimateMovingCursor /> */}
       <Navbar />
       <HeroSection/>
       <About />

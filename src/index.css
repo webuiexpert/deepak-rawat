@@ -18,7 +18,6 @@ html, body{
     height: 100%;
     font-family: Monte;
     scroll-behavior: smooth;
-    cursor: none;
 }
 .cursor {
     width: 20px;
@@ -29,7 +28,6 @@ html, body{
     position: fixed;
     top: 0;
     left: 0;
-    pointer-events: none;
     z-index: 99999;
   }
 
