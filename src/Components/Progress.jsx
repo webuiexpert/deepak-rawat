@@ -1,10 +1,4 @@
 import React from "react";
-// import wordpress from "../assets/svg/wordpress.svg"
-// import html from "../assets/svg/html.svg"
-// import css from "../assets/svg/css3.svg"
-// import webflow from "../assets/svg/webflow.svg"
-// import clickfunnel from "../assets/svg/clickfunnel.svg"
-// import ghl from "../assets/svg/wordpress.svg"
 import checkIcon from "../assets/svg/check-circle-svgrepo-com.svg"
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
@@ -42,7 +36,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Wordpress, Elementor, Oxegen, Bricks builder
+            Wordpress, Webflow
             </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
@@ -57,7 +51,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            HTML5, CSS3 </h4>
+            HTML5, CSS3, Js </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />
@@ -71,7 +65,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Clickfunnel, GHL, Kartra, Kajabi, Unbounce </h4>
+            React Js, Next Js, Tailwind and Bootstrap </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />
@@ -85,7 +79,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Mailchimp, Kalavio </h4>
+            Mailchimp, Klaviyo, Outlook, Email Templates</h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />
@@ -99,7 +93,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Php, Payment Gateways, API integration </h4>
+            Adobe Photoshop and Figma</h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />

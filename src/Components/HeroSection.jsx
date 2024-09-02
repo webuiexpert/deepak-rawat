@@ -41,12 +41,12 @@ gsap.from(MainRef.current, {
       </h5>
       <div className="btnBox lg:mt-0  lg:w-[65%]  mt-5 gap-10 lg:flex justify-between items-end">
         <div className="letGoBtn lg:w-[40%] relative">
-          <a href="https://api.whatsapp.com/send/?phone=9041421329&text&type=phone_number&app_absent=0">
-          <button className="booikngBtn text-[18px] w-full leading-8  px-2 py-2 border bg-[#13a300]">
+          <a href="https://api.whatsapp.com/send/?phone=9988168733&text&type=phone_number&app_absent=0">
+          <button className="rounded-full booikngBtn text-[18px] w-full leading-8  px-2 py-2 border bg-[#13a300]">
             Lets Connect
           </button></a>
           <svg
-            className="absolute top-0 right-0 lg:-translate-y-1 -translate-y-2  translate-x-1"
+            className="absolute top-[6px] right-0 lg:-translate-y-1 -translate-y-2  translate-x-1"
             width="30px"
             height="30px"
             viewBox="0 0 32 32"
@@ -87,7 +87,7 @@ gsap.from(MainRef.current, {
             </defs>
           </svg>
         </div>
-         <div className="lg:w-[60%] lg:mt-0 mt-5 text-[20px] text-center leading-8 border px-2 py-2 ">
+         <div className="lg:w-[60%] lg:mt-0 mt-5 text-[20px] text-center leading-8 border px-2 py-2 rounded-full">
          <Calendly />
          </div>
       

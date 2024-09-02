@@ -11,32 +11,27 @@ const shopifyData = [
   {
    "projectImage": sprojectImg1,
    "tools": "Figma, HTML, CSS, JS, Liquid, Shopify.",
-   "link": "#"
+   "link": "https://colomerandsons.com/"
   },
   {
    "projectImage": sprojectImg2,
    "tools": "Figma, HTML, CSS, JS, Liquid, Shopify.",
-   "link": "#"
+   "link": "https://dressmedown.com/"
   },
   {
    "projectImage": sprojectImg3,
    "tools": "Figma, HTML, CSS, JS, Liquid, Shopify.",
-   "link": "#"
+   "link": "https://dressmedown.com/"
   },
   {
    "projectImage": sprojectImg4,
    "tools": "Figma, HTML, CSS, JS, Liquid, Shopify.",
-   "link": "#"
+   "link": "https://colorfulnatalie.com/"
   },
   {
    "projectImage": sprojectImg5,
    "tools": "Figma, HTML, CSS, JS, Liquid, Shopify.",
-   "link": "#"
-  },
-  {
-   "projectImage": sprojectImg6,
-   "tools": "Figma, HTML, CSS, JS, Liquid, Shopify.",
-   "link": "#"
+   "link": "https://giganticcandy.com/"
   },
   
  
@@ -55,7 +50,7 @@ function ShopifyProjects() {
               <div key={index} className="flex flex-col items-start bg-white rounded">
               <img className="border p-1  rounded-lg flex-shrink w-full h-68 object-cover  object-center mb-4" src={pItem.projectImage} alt="" />
               <h2 className="title-font text-left font-medium lg:text-lg text-sm text-gray-900">{pItem.tools}</h2>
-              <a className="visitSite flex underline hover:no-underline items-center gap-3" href={pItem.link}><p className="font-bold text-black transition-all duration-500">visit website</p> <CiLocationArrow1 className="arrowsvg rotate-[45deg]" /> </a>
+              <a className="visitSite flex underline hover:no-underline items-center gap-3" href={pItem.link} target="_blank"><p className="font-bold text-black transition-all duration-500">visit website</p> <CiLocationArrow1 className="arrowsvg rotate-[45deg]" /> </a>
               </div>
             ))
           }
