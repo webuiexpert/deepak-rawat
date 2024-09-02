@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deepak-rawat/static/css/main.415b4171.css",
-    "main.js": "/deepak-rawat/static/js/main.ed06c5f3.js",
+    "main.js": "/deepak-rawat/static/js/main.fbeb14cf.js",
     "static/js/453.4ed69023.chunk.js": "/deepak-rawat/static/js/453.4ed69023.chunk.js",
     "static/media/CssHouse-projects37.png": "/deepak-rawat/static/media/CssHouse-projects37.7e53ac4f10789702bf35.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/deepak-rawat/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -54,11 +54,11 @@
     "index.html": "/deepak-rawat/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/deepak-rawat/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
     "main.415b4171.css.map": "/deepak-rawat/static/css/main.415b4171.css.map",
-    "main.ed06c5f3.js.map": "/deepak-rawat/static/js/main.ed06c5f3.js.map",
+    "main.fbeb14cf.js.map": "/deepak-rawat/static/js/main.fbeb14cf.js.map",
     "453.4ed69023.chunk.js.map": "/deepak-rawat/static/js/453.4ed69023.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.415b4171.css",
-    "static/js/main.ed06c5f3.js"
+    "static/js/main.fbeb14cf.js"
   ]
 }
