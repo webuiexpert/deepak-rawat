@@ -9,6 +9,11 @@ import funnelProject7 from "../assets/FunnelPages/FunnelProject7.png"
 import funnelProject8 from "../assets/FunnelPages/FunnelProject8.png"
 import funnelProject9 from "../assets/FunnelPages/FunnelProject9.png"
 import funnelProject10 from "../assets/FunnelPages/FunnelProject10.png"
+import funnelProject11 from "../assets/FunnelPages/FunnelProject11.png"
+import funnelProject12 from "../assets/FunnelPages/FunnelProject12.png"
+import funnelProject13 from "../assets/FunnelPages/FunnelProject13.png"
+import funnelProject14 from "../assets/FunnelPages/FunnelProject14.png"
+import funnelProject15 from "../assets/FunnelPages/FunnelProject15.png"
 import { CiLocationArrow1 } from "react-icons/ci";
 
 
@@ -63,15 +68,41 @@ const reactData = [
         "tools": "Figma, HTML, CSS, GHL",
         "link": "https://book.empoweru.com.au/revisit-empower-u-page"
        },
+       {
+        "projectImage": funnelProject11,
+        "tools": "Figma, HTML, CSS, GHL",
+        "link": "https://app.sanesocialmedia.com/v2/preview/EvlqdvHZsb2zXw89o07y"
+       },
+       {
+        "projectImage": funnelProject12,
+        "tools": "Figma, HTML, CSS, Clickfunnel",
+        "link": "https://www.jointherealworld.info/"
+       },
+       {
+        "projectImage": funnelProject13,
+        "tools": "Figma, HTML, CSS, Clickfunnel",
+        "link": "https://www.ceobook.com/"
+       },
+       {
+        "projectImage": funnelProject14,
+        "tools": "Figma, HTML, CSS, GHL",
+        "link": "https://expertsummit.com/esw-reg/"
+       },
+       {
+        "projectImage": funnelProject15,
+        "tools": "Figma, HTML, CSS, GHL",
+        "link": "https://5hourstowealth.com/starthere_var1"
+       },
 
     ]
+
 
 
 function MarketingLandingPages() {
   return (
     <section className="text-gray-600 body-font">
     <div className="container">
-      <div className="grid lg:grid-cols-3 grid-cols-2 gap-8">
+      <div className="grid lg:grid-cols-3 grid-cols-2 lg:gap-8 gap-3">
         
         {
           reactData.map((reactItem, index) => (
