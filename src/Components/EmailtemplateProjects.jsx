@@ -39,7 +39,7 @@ function EmailtemplateProjects() {
   return (
     <section className="text-gray-600 body-font">
       <div className="container">
-        <div className="grid lg:grid-cols-3 grid-cols-2 gap-8">
+        <div className="grid lg:grid-cols-3 grid-cols-2 lg:gap-8 gap-3">
           
           {
             emailTemplatedata.map((wPItem, index) => (

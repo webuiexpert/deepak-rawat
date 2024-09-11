@@ -9,22 +9,22 @@ import { CiLocationArrow1 } from "react-icons/ci";
 const reactData = [
     {
         "projectImage": ReactProject1,
-        "tools": "Figma, HTML, Tailwind CSS, React.",
+        "tools": "Figma, HTML, Tailwind CSS, Bootstrap, React.",
         "link": "https://webuiexpert.github.io/digital-marketing-systems/"
        },
        {
         "projectImage": ReactProject2,
-        "tools": "Figma, HTML, Tailwind CSS, React.",
+        "tools": "Figma, HTML, Tailwind CSS, Bootstrap, React.",
         "link": "https://www.solutionfounder.com/"
        },
        {
         "projectImage": ReactProject3,
-        "tools": "Figma, HTML, Tailwind CSS, React.",
+        "tools": "Figma, HTML, Tailwind CSS, Bootstrap, React.",
         "link": "https://www.cablemovers.net/"
        },
        {
         "projectImage": ReactProject4,
-        "tools": "Figma, HTML, Tailwind CSS, React.",
+        "tools": "Figma, HTML, Tailwind CSS, Bootstrap, React.",
         "link": "https://www.quantro.net/#investment"
        },
     ]
@@ -34,7 +34,7 @@ function FigmaToReact() {
   return (
     <section className="text-gray-600 body-font">
       <div className="container">
-        <div className="grid lg:grid-cols-3 grid-cols-2 gap-8">
+        <div className="grid lg:grid-cols-3 grid-cols-2 lg:gap-8 gap-3">
           
           {
             reactData.map((reactItem, index) => (

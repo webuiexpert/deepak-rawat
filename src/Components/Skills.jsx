@@ -19,15 +19,15 @@ function Skills() {
         <h4 className="text-center text-[24px]">
           Below are the list of few projects that will showcase my strength.
         </h4>
-        <Tabs className={"mt-16"}>
-          <TabList  className={ "flex flex-wrap justify-center items-center lg:gap-x-20 lg:gap-y-5 gap-4"}>
+        <Tabs className={"mt-10"}>
+          <TabList  className={ "flex flex-wrap justify-center items-center lg:gap-x-5 lg:gap-y-5 gap-4"}>
             
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Wordpress</Tab>
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Webflow</Tab>
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Email Template</Tab>
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Figma to HTML</Tab>
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Figma to React/Tailwind</Tab>
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Marketing Landing Pages</Tab>
+            <Tab  className={ "text-black lg:px-4 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Wordpress</Tab>
+            <Tab  className={ "text-black lg:px-4 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Webflow</Tab>
+            <Tab  className={ "text-black lg:px-4 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Email Template</Tab>
+            <Tab  className={ "text-black lg:px-4 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Figma to HTML</Tab>
+            <Tab  className={ "text-black lg:px-4 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Figma to React</Tab>
+            <Tab  className={ "text-black lg:px-4 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Marketing Landing Pages</Tab>
             
           </TabList>
 <div className="py-5 mt-5">
