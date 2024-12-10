@@ -39,6 +39,50 @@ gsap.from(MainRef.current, {
       <h5 className="lg:my-4 lg:w-[738px] lg:text-[24px] text-[18px] font-extrabold lg:leading-[1.2em]">
       I research, code, blog, and make Designs live.
       </h5>
+      <div class="contact-links mb-4 lg:flex gap-5 lg:mt-0 mt-4">
+            <a
+              href="tel:+91-9041421329"
+              class="flex gap-2 text-[32px] items-center"
+            >
+              {" "}
+              <svg
+                stroke="currentColor"
+                fill="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                height="1em"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path fill="none" d="M0 0h24v24H0z"></path>
+                <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"></path>
+              </svg>{" "}
+              <p class="text-[24px] font-mono hover:underline duration-500">
+                +91-9988168733
+              </p>
+            </a>
+            <a
+              href="mailto:webuiexpert929@gmail.com"
+              class="flex gap-2 text-[38px] items-center"
+            >
+              {" "}
+              <svg
+                stroke="currentColor"
+                fill="currentColor"
+                stroke-width="0"
+                viewBox="0 0 512 512"
+                height="1em"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M460.6 147.3L353 256.9c-.8.8-.8 2 0 2.8l75.3 80.2c5.1 5.1 5.1 13.3 0 18.4-2.5 2.5-5.9 3.8-9.2 3.8s-6.7-1.3-9.2-3.8l-75-79.9c-.8-.8-2.1-.8-2.9 0L313.7 297c-15.3 15.5-35.6 24.1-57.4 24.2-22.1.1-43.1-9.2-58.6-24.9l-17.6-17.9c-.8-.8-2.1-.8-2.9 0l-75 79.9c-2.5 2.5-5.9 3.8-9.2 3.8s-6.7-1.3-9.2-3.8c-5.1-5.1-5.1-13.3 0-18.4l75.3-80.2c.7-.8.7-2 0-2.8L51.4 147.3c-1.3-1.3-3.4-.4-3.4 1.4V368c0 17.6 14.4 32 32 32h352c17.6 0 32-14.4 32-32V148.7c0-1.8-2.2-2.6-3.4-1.4z"></path>
+                <path d="M256 295.1c14.8 0 28.7-5.8 39.1-16.4L452 119c-5.5-4.4-12.3-7-19.8-7H79.9c-7.5 0-14.4 2.6-19.8 7L217 278.7c10.3 10.5 24.2 16.4 39 16.4z"></path>
+              </svg>{" "}
+              <p class="text-[24px] font-mono hover:underline duration-500">
+              webuiexpert929@gmail.com
+              </p>
+            </a>
+          </div>
       <div className="btnBox lg:mt-0  lg:w-[65%]  mt-5 gap-10 lg:flex justify-between items-end">
         <div className="letGoBtn lg:w-[40%] relative">
           <a href="https://api.whatsapp.com/send/?phone=9988168733&text&type=phone_number&app_absent=0">
@@ -87,7 +131,7 @@ gsap.from(MainRef.current, {
             </defs>
           </svg>
         </div>
-         <div className="lg:w-[60%] lg:mt-0 mt-5 text-[20px] text-center leading-8 border px-2 py-2 rounded-full">
+         <div className="lg:w-[50%] lg:mt-0 mt-5 text-[20px] text-center leading-8 border lg:px-2 px-4 lg:py-[10px] py-4 rounded-full">
          <Calendly />
          </div>
       
