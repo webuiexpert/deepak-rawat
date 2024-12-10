@@ -41,7 +41,7 @@ gsap.from(MainRef.current, {
       </h5>
       <div class="contact-links mb-4 lg:flex gap-5 lg:mt-0 mt-4">
             <a
-              href="tel:+91-9041421329"
+              href="tel:+91-9988168733"
               class="flex gap-2 text-[32px] items-center"
             >
               {" "}
