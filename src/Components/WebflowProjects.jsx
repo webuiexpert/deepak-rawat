@@ -5,6 +5,11 @@ import webflowProject3 from "../assets/webflowProjectsImages/webflowProject3.png
 import webflowProject4 from "../assets/webflowProjectsImages/webflowProject4.png"
 import webflowProject5 from "../assets/webflowProjectsImages/webflowProject5.png"
 import webflowProject6 from "../assets/webflowProjectsImages/webflowProject6.png"
+import webflowProject7 from "../assets/webflowProjectsImages/webflowProject7.png"
+import webflowProject8 from "../assets/webflowProjectsImages/webflowProject8.png"
+import webflowProject9 from "../assets/webflowProjectsImages/webflowProject9.png"
+import webflowProject10 from "../assets/webflowProjectsImages/webflowProject10.png"
+import webflowProject11 from "../assets/webflowProjectsImages/webflowProject11.png"
 import { CiLocationArrow1 } from "react-icons/ci";
 
 
@@ -41,6 +46,32 @@ const webflowdata = [
             "tools": "Figma, HTML, CSS, Webflow.",
             "link": "https://hall-digital.webflow.io/"
            },
+           {
+            "projectImage": webflowProject7,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://www.lawfty.com//"
+           },
+           {
+            "projectImage": webflowProject8,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://capital.club/"
+           },
+           {
+            "projectImage": webflowProject9,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://www.jointherealworld.info/"
+           },
+           {
+            "projectImage": webflowProject10,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://www.closercartel.com/"
+           },
+           {
+            "projectImage": webflowProject11,
+            "tools": "Figma, HTML, CSS, Webflow.",
+            "link": "https://www.pennyfinance.com.au/"
+           },
+
 
 
 
