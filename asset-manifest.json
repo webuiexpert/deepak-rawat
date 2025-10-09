@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deepak-rawat/static/css/main.1045a3ec.css",
-    "main.js": "/deepak-rawat/static/js/main.a9177982.js",
+    "main.js": "/deepak-rawat/static/js/main.8ce4c9f1.js",
     "static/js/453.4ed69023.chunk.js": "/deepak-rawat/static/js/453.4ed69023.chunk.js",
     "static/media/Montserrat-VariableFont_wght.ttf": "/deepak-rawat/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
     "static/media/hero-img.png": "/deepak-rawat/static/media/hero-img.e470ea502c6f66bbf88d.png",
@@ -24,7 +24,6 @@
     "static/media/reactProject1.png": "/deepak-rawat/static/media/reactProject1.b47b412a680dabb620ea.png",
     "static/media/FunnelProject7.png": "/deepak-rawat/static/media/FunnelProject7.bf0f5b301cda0de23504.png",
     "static/media/FunnelProject14.png": "/deepak-rawat/static/media/FunnelProject14.479d5f266ea3c47c868e.png",
-    "static/media/wordpress-project1.png": "/deepak-rawat/static/media/wordpress-project1.ff423e71bc483475b2f8.png",
     "static/media/webflowProject4.png": "/deepak-rawat/static/media/webflowProject4.f84670dc9df6c597c399.png",
     "static/media/reactProject2.png": "/deepak-rawat/static/media/reactProject2.b4331155b1280e1b5ce1.png",
     "static/media/FunnelProject5.png": "/deepak-rawat/static/media/FunnelProject5.67d5316520e6009c6fcd.png",
@@ -60,11 +59,11 @@
     "index.html": "/deepak-rawat/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/deepak-rawat/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
     "main.1045a3ec.css.map": "/deepak-rawat/static/css/main.1045a3ec.css.map",
-    "main.a9177982.js.map": "/deepak-rawat/static/js/main.a9177982.js.map",
+    "main.8ce4c9f1.js.map": "/deepak-rawat/static/js/main.8ce4c9f1.js.map",
     "453.4ed69023.chunk.js.map": "/deepak-rawat/static/js/453.4ed69023.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1045a3ec.css",
-    "static/js/main.a9177982.js"
+    "static/js/main.8ce4c9f1.js"
   ]
 }
