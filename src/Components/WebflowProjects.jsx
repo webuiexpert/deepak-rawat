@@ -26,17 +26,6 @@ const webflowdata = [
             "link": "https://www.vizio.ai/"
            },
            {
-            "projectImage": webflowProject3,
-            "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://facefoundry.webflow.io/"
-           },
-          
-           {
-            "projectImage": webflowProject5,
-            "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://starlight-stage.webflow.io/"
-           },
-           {
             "projectImage": webflowProject6,
             "tools": "Figma, HTML, CSS, Webflow.",
             "link": "https://hall-digital.webflow.io/"
