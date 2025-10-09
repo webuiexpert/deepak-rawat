@@ -16,11 +16,6 @@ import { CiLocationArrow1 } from "react-icons/ci";
 
 const webflowdata = [
         {
-            "projectImage": webflowProject1,
-            "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://www.getladle.com/"
-           },
-           {
             "projectImage": webflowProject4,
             "tools": "Figma, HTML, CSS, Webflow.",
             "link": "https://inaccord.com/"

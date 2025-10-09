@@ -1,5 +1,4 @@
 import React from "react";
-import wprojectImg1 from "../assets/wordpress-project1.png"
 import wprojectImg2 from "../assets/wordpress-project2.png"
 import wprojectImg3 from "../assets/wordpress-project3.png"
 import wprojectImg4 from "../assets/wordpress-project4.png"
@@ -8,12 +7,7 @@ import wprojectImg6 from "../assets/wordpress-project6.png"
 import { CiLocationArrow1 } from "react-icons/ci";
 
 const wordpressData = [
-  {
-   "projectImage": wprojectImg1,
-   "tools": "Figma,HTML, CSS, JS, WordPress Elementor",
-   "link": "https://cmoconfessions.com/"
-  },
-  {
+ {
    "projectImage": wprojectImg2,
    "tools": "Figma,HTML, CSS, JS, WordPress Elementor",
    "link": "http://thein8summit.com.au/"
